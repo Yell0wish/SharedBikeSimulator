@@ -54,7 +54,7 @@
         <!--高德地图API Key-->
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="f08cfff638efd1396b58da9f9d4816cd"/>
+            android:value="2d0c515514c3bcea3384a41cddd0121b"/>
     </application>
 
 </manifest>
